@@ -1,0 +1,435 @@
+.body {
+  position: relative;
+  width: 1600px;
+  height: 2349px;
+  background: #ffffff;
+  font-family: "roboto", sans-serif;
+}
+/* header */
+.header {
+  position: absolute;
+  width: 1600px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+}
+.logo {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: black;
+}
+.web {
+  color: #2196f3;
+}
+.study {
+  position: absolute;
+  width: 49px;
+  height: 16px;
+  left: 453px;
+  top: 32px;
+  font-family: roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #2196f3;
+}
+.portfolio1 {
+  position: absolute;
+  width: 77px;
+  height: 16px;
+  left: 552px;
+  top: 32px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+.contact {
+  position: absolute;
+  width: 68px;
+  height: 16px;
+  left: 679px;
+  top: 32px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+.mail {
+  position: absolute;
+  width: 135px;
+  height: 16px;
+  left: 1078px;
+  top: 32px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #2196f3;
+}
+.number {
+  position: absolute;
+  width: 122px;
+  height: 16px;
+  left: 1263px;
+  top: 32px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+/* hero */
+.hero {
+  position: absolute;
+  width: 1600px;
+  height: 600px;
+  left: 0px;
+  top: 80px;
+  background: #2f303a;
+}
+.text1 {
+  position: absolute;
+  width: 696px;
+  height: 120px;
+  left: 452px;
+  top: 280px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.button {
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  left: 700px;
+  top: 430px;
+  background: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+/* dignity */
+.hide {
+  color: rgba(0, 0, 0, 0);
+}
+.dignity {
+  position: absolute;
+  width: 1170px;
+  height: 101px;
+  left: 215px;
+  top: 774px;
+}
+.feature1 {
+  position: absolute;
+  width: 270px;
+  height: 101px;
+  left: 215px;
+  top: 774px;
+}
+.feature2 {
+  position: absolute;
+  width: 270px;
+  height: 101px;
+  left: 515px;
+  top: 774px;
+}
+.feature3 {
+  position: absolute;
+  width: 270px;
+  height: 101px;
+  left: 815px;
+  top: 774px;
+}
+.feature4 {
+  position: absolute;
+  width: 270px;
+  height: 101px;
+  left: 1115px;
+  top: 774px;
+}
+/* work */
+.work {
+  position: absolute;
+  width: 1170px;
+  height: 386px;
+  left: 215px;
+  top: 969px;
+}
+.what-we-do {
+  position: absolute;
+  width: 376px;
+  height: 42px;
+  left: 612px;
+  top: 969px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.photo1 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 1061px;
+}
+.photo2 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 615px;
+  top: 1061px;
+}
+.photo3 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 1015px;
+  top: 1061px;
+}
+/* team */
+.team {
+  position: absolute;
+  width: 1600px;
+  height: 648px;
+  left: 0px;
+  top: 1449px;
+}
+.our-team {
+  position: absolute;
+  width: 264px;
+  height: 42px;
+  left: 668px;
+  top: 1543px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.photo-of-team {
+  position: absolute;
+  width: 1170px;
+  height: 368px;
+  left: 215px;
+  top: 1635px;
+}
+.card1 {
+  position: absolute;
+  width: 270px;
+  height: 368px;
+  left: 215px;
+  top: 1635px;
+  background: #ffffff;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 0px 0px 4px 4px;
+}
+.card2 {
+  position: absolute;
+  width: 270px;
+  height: 368px;
+  left: 515px;
+  top: 1635px;
+  background: #ffffff;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 0px 0px 4px 4px;
+}
+.card3 {
+  position: absolute;
+  width: 270px;
+  height: 368px;
+  left: 815px;
+  top: 1635px;
+  background: #ffffff;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 0px 0px 4px 4px;
+}
+.card4 {
+  position: absolute;
+  width: 270px;
+  height: 368px;
+  left: 1115px;
+  top: 1635px;
+  background: #ffffff;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 0px 0px 4px 4px;
+}
+/* portfolio */
+.portfolio {
+  position: absolute;
+  width: 1170px;
+  height: 1360px;
+  left: 215px;
+  top: 174px;
+}
+.all-button {
+  position: absolute;
+  width: 73px;
+  height: 38px;
+  left: 495px;
+  top: 174px;
+  background: #f5f4fa;
+  border-radius: 4px;
+}
+.websites-button {
+  position: absolute;
+  width: 128px;
+  height: 38px;
+  left: 576px;
+  top: 174px;
+  background: #f5f4fa;
+  border-radius: 4px;
+}
+.apps-button {
+  position: absolute;
+  width: 145px;
+  height: 38px;
+  left: 712px;
+  top: 174px;
+  background: #f5f4fa;
+  border-radius: 4px;
+}
+.design-button {
+  position: absolute;
+  width: 103px;
+  height: 38px;
+  left: 865px;
+  top: 174px;
+  background: #f5f4fa;
+  border-radius: 4px;
+}
+.marketing-button {
+  position: absolute;
+  width: 130px;
+  height: 38px;
+  left: 976px;
+  top: 174px;
+  background: #f5f4fa;
+  border-radius: 4px;
+}
+/* progects*/
+.image1 {
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 262px;
+}
+.image2 {
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 615px;
+  top: 262px;
+}
+.image3 {
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 1015px;
+  top: 262px;
+}
+.image4 {
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 696px;
+}
+.image5 {
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 615px;
+  top: 696px;
+}
+.image6 {
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 1015px;
+  top: 696px;
+}
+.image7 {
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 1130px;
+}
+.image8 {
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 615px;
+  top: 1130px;
+}
+.image9 {
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 1015px;
+  top: 1130px;
+}
+/* footer */
+.footer {
+  position: absolute;
+  width: 1600px;
+  height: 252px;
+  left: 0px;
+  top: 2097px;
+  background: #2f303a;
+}
+.footer-logo {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 2157px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+}
